@@ -239,3 +239,10 @@ body {
     float: left
     margin-top: 150px;
   }
+
+  @media (max-width: 1199px){
+    .resume{
+      padding-top: 200px;
+    }
+
+  }
